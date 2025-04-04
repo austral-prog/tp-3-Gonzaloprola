@@ -4,8 +4,6 @@ def slice_advanced():
 
     print (txt [4:14:2])
 
-    txtt = input ()
-
     print (txt [5:10:2])
 
 
